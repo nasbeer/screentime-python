@@ -1,5 +1,5 @@
 # screentime-python
 
-The data is taken from Kaggle.
+The sample data file is taken from Kaggle.
 
 https://nasbeer.com
